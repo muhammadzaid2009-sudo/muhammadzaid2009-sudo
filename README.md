@@ -131,7 +131,7 @@ flowchart LR
 
 ## 🏅 Achievements
 
-- 🥇 Completed the **Jr Penetration Tester** path on TryHackMe
+- 🥇 Completed the [**Jr Penetration Tester path**](https://tryhackme.com/certificate/THM-BTSJQLU7VA) on TryHackMe
 - 🛡️ Hands-on SOC investigation experience with Wazuh and web-server logs
 - 🧪 Built and maintain a multi-OS home lab with detection telemetry
 - 📚 Publishing write-ups on GitBook, GitHub, and Medium
@@ -140,7 +140,7 @@ flowchart LR
 
 ## 🗺️ Roadmap
 
-- [x] TryHackMe [Jr Penetration Tester path](https://tryhackme.com/certificate/THM-BTSJQLU7VA)
+- [x] TryHackMe Jr Penentration Testing Path
 - [x] Wazuh home lab + SOC internship
 - [ ] Web application security and bug bounty practice
 - [ ] Active Directory attack and defense labs
