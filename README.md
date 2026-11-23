@@ -140,7 +140,7 @@ flowchart LR
 
 ## 🗺️ Roadmap
 
-- [x] TryHackMe Jr Penetration Tester path
+- [x] TryHackMe [Jr Penetration Tester path](https://tryhackme.com/certificate/THM-BTSJQLU7VA)
 - [x] Wazuh home lab + SOC internship
 - [ ] Web application security and bug bounty practice
 - [ ] Active Directory attack and defense labs
