@@ -70,6 +70,7 @@ I learn by doing: working through hands-on labs, investigating real logs, writin
 | 📂 [Custom Scripts and Tools](https://github.com/muhammadzaid2009-sudo/Scripts-and-Tools) | Custom Scripts and Tools made by author. |
 | ✍️ [Medium Articles](https://medium.com/@muhammadzaid2009) | Articles and reflections on technology and cybersecurity. |
 | ✍️ [Python Projects](https://github.com/muhammadzaid2009-sudo/Python-Projects) | A Collection of multiple python projects. |
+| ✍️ [Security Writeups and CTF WriteUps](https://github.com/muhammadzaid2009-sudo/Write-Ups) |  Practical security notes and write-ups, versioned on GitHub. |
 
 ## 🏅 Learning & Achievements
 
