@@ -28,7 +28,7 @@ I learn by doing: working through hands-on labs, investigating real logs, writin
 
 | Area | What I'm doing |
 | :-- | :-- |
-| 🛡️ **Blue Team / SOC** | Triaging Wazuh alerts and web-server logs, investigating suspicious HTTP activity, and reporting findings with evidence. |
+| 🛡️ **Blue Team / SOC** | Intern as a SOC L1 at DeepAegis working with Wazuh as a SIEM Tool |
 | 🔎 **Offensive Security** | Practising web application testing and penetration-testing methodology in authorized lab environments. |
 | 🐧 **Linux & Scripting** | Building practical automation tools with Python and Bash. |
 | 🪟 **Windows & Active Directory** | Developing foundations through home labs and guided exercises. |
@@ -67,8 +67,9 @@ I learn by doing: working through hands-on labs, investigating real logs, writin
 | Project | Description |
 | :-- | :-- |
 | 📘 [CTF & Lab Write-ups](https://muhammad-zaid.gitbook.io/muhammad-zaid-ctf-docs/) | Methodology, enumeration, findings, and lessons learned from labs and CTFs. |
-| 📂 [Security Write-ups Repository](https://github.com/muhammadzaid2009-sudo/Write-Ups) | Practical security notes and write-ups, versioned on GitHub. |
+| 📂 [Custom Scripts and Tools](https://github.com/muhammadzaid2009-sudo/Scripts-and-Tools) | Custom Scripts and Tools made by author. |
 | ✍️ [Medium Articles](https://medium.com/@muhammadzaid2009) | Articles and reflections on technology and cybersecurity. |
+| ✍️ [Python Projects](https://github.com/muhammadzaid2009-sudo/Python-Projects) | A Collection of multiple python projects. |
 
 ## 🏅 Learning & Achievements
 
