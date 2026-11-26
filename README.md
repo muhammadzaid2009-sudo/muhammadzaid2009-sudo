@@ -129,17 +129,34 @@ Become a well-rounded security professional who understands both attack and defe
 
 A VMware-based lab where I practise attacks and, just as importantly, watch what they look like in telemetry.
 
-```mermaid
-flowchart LR
-    K["🐉 Kali Linux<br/>Attacker"] -->|"recon & exploitation"| T
-    subgraph T["🎯 Targets"]
-        M["Metasploitable 2"]
-        O["OWASP BWA"]
-        W["Windows 10 / Server 2022"]
-    end
-    T -->|"logs & telemetry"| Z["🛡️ Wazuh 4.14<br/>Detection & Alerts"]
-    Z -->|"findings"| R["📝 Write-ups"]
-```
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="22%">
+      <h3>🐉 Kali Linux</h3>
+      <sub>🔴 Attacker</sub>
+    </td>
+    <td align="center" valign="middle" width="6%"><b>➜</b><br><sub>recon and exploitation</sub></td>
+    <td align="center" valign="middle" width="26%">
+      <h3>🎯 Targets</h3>
+      <sub>Metasploitable 2<br>OWASP BWA<br>Windows 10 / Server 2022</sub>
+    </td>
+    <td align="center" valign="middle" width="6%"><b>➜</b><br><sub>logs and telemetry</sub></td>
+    <td align="center" valign="middle" width="22%">
+      <h3>🛡️ Wazuh 4.14</h3>
+      <sub>🔵 Detection and Alerts</sub>
+    </td>
+    <td align="center" valign="middle" width="6%"><b>➜</b><br><sub>findings</sub></td>
+    <td align="center" valign="middle" width="12%">
+      <h3>📝 Write-ups</h3>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
